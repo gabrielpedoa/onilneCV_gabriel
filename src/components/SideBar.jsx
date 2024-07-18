@@ -13,12 +13,12 @@ function SideBar() {
       </p>
       <SocialNetworks />
       <InformationContainer />
-      <a href="" className="btn">
+      {/* <a href="" className="btn">
         English Curriculum
       </a>
       <a href="" className="btn">
         Curriculo em Português
-      </a>
+      </a> */}
     </aside>
   );
 }

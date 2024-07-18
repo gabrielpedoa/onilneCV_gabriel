@@ -5,7 +5,7 @@ import "./styles/components/app.sass";
 function App() {
   return (
     <>
-      <div id="portfolio">
+      <div id="portfolio" data-aos="fade-down" data-aos-delay="450">
         <h1>Gabriel Antunes</h1>
         <SideBar />
         <MainContent />
